@@ -8,7 +8,7 @@ const Hero = () => {
       {/* Left side */}
       <div className="mt-8 flex flex-col items-center md:justify-center lg:items-start gap-8">
         <h1 className="text-5xl md:text-6xl lg:text-8xl uppercase text-primary ">
-          Let's ride <span className="font-bold">the future.</span>
+          Let&apos;s ride <span className="font-bold">the future.</span>
         </h1>
         <span className="block w-2/3 bg-primary border border-primary"></span>
         <p className="text-base lg:text-lg tracking-wide text-primary">
